@@ -1,5 +1,5 @@
 {
-  "name": "frontend",
+  "name": "marathons-frontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
