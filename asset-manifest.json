@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/marathons-frontend/static/css/main.5f361e03.chunk.css",
+    "main.js": "/marathons-frontend/static/js/main.0ebe2411.chunk.js",
+    "main.js.map": "/marathons-frontend/static/js/main.0ebe2411.chunk.js.map",
+    "runtime-main.js": "/marathons-frontend/static/js/runtime-main.f7cc397b.js",
+    "runtime-main.js.map": "/marathons-frontend/static/js/runtime-main.f7cc397b.js.map",
+    "static/js/2.e125daba.chunk.js": "/marathons-frontend/static/js/2.e125daba.chunk.js",
+    "static/js/2.e125daba.chunk.js.map": "/marathons-frontend/static/js/2.e125daba.chunk.js.map",
+    "index.html": "/marathons-frontend/index.html",
+    "precache-manifest.15034b9cf3a072447e3c85fdb2786b57.js": "/marathons-frontend/precache-manifest.15034b9cf3a072447e3c85fdb2786b57.js",
+    "service-worker.js": "/marathons-frontend/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/marathons-frontend/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e125daba.chunk.js.LICENSE.txt": "/marathons-frontend/static/js/2.e125daba.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/marathons-frontend/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7cc397b.js",
+    "static/js/2.e125daba.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.0ebe2411.chunk.js"
+  ]
+}
